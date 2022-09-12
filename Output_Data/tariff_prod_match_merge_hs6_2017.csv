@@ -1,0 +1,349 @@
+,Group,FAO Cropname,Crop ID,Description,Auxiliary Info,edible,modified,fresh,frozen,shelled,dried,chilled,seed,ground,preserved
+0,Roots&Tubers,"Roots and Tubers, nes",60110, bulbs, tubers tuberous roots corms crowns and rhizomes dormant,0,0,0,0,0,0,0,0,0,0
+1,Roots&Tubers,"Roots and Tubers, nes",60120, bulbs, tubers tuberous roots corms crowns and rhizomes in growth or in flower chicory plants and roots other than of heading no. 1212,0,0,0,0,0,0,0,0,0,0
+2,Fruit,"Fruit, tropical fresh nes",60220, edible fruit or nut trees, shrubs and bushes grafted or not,0,0,0,0,0,0,0,0,0,0
+3,Roots&Tubers,Potatoes,70110, seed potatoes, fresh or chilled,0,0,1,0,0,0,1,0,0,0
+4,Roots&Tubers,Potatoes,70190, potatoes (other than seed), fresh or chilled,0,0,1,0,0,0,1,0,0,0
+5,Vegetables&Melons,Tomatoes,70200, tomatoes, fresh or chilled,0,0,1,0,0,0,1,0,0,0
+6,Vegetables&Melons,"Onions, dry",70310, onions and shallots, fresh or chilled,0,0,1,0,0,0,1,0,0,0
+7,Vegetables&Melons,Garlic,70320, garlic, fresh or chilled,0,0,1,0,0,0,1,0,0,0
+8,Vegetables&Melons,Cauliflowers and broccoli,70410, cauliflowers and headed broccoli, fresh or chilled,0,0,1,0,0,0,1,0,0,0
+9,Forage,cabbagefor,70511, cabbage (head) lettuce (lactuca sativa), fresh or chilled,0,0,1,0,0,0,1,0,0,0
+10,Vegetables&Melons,Lettuce and chicory,70511, cabbage (head) lettuce (lactuca sativa), fresh or chilled,0,0,1,0,0,0,1,0,0,0
+11,Forage,cabbagefor,70519, lettuce (lactuca sativa), (other than cabbage lettuce) fresh or chilled,0,0,1,0,0,0,1,0,0,0
+12,Vegetables&Melons,Lettuce and chicory,70519, lettuce (lactuca sativa), (other than cabbage lettuce) fresh or chilled,0,0,1,0,0,0,1,0,0,0
+13,Vegetables&Melons,Carrots and turnips,70610, carrots and turnips, fresh or chilled,0,0,1,0,0,0,1,0,0,0
+14,Roots&Tubers,"Roots and Tubers, nes",70690, salad beetroot, salsify celeric radishes and similar edible roots fresh or chilled,1,0,1,0,0,0,1,0,0,0
+15,Vegetables&Melons,Cucumbers and gherkins,70700, cucumbers and gherkins, fresh or chilled,0,0,1,0,0,0,1,0,0,0
+16,Vegetables&Melons,"Peas, green",70810, peas (pisum sativum), shelled or unshelled fresh or chilled,0,0,1,0,1,0,1,0,0,0
+17,Pulses,"Peas, dry",70810, peas (pisum sativum), shelled or unshelled fresh or chilled,0,0,1,0,1,0,1,0,0,0
+18,Pulses,"Beans, dry",70820, beans (vigna spp., phaseolus spp.) shelled or unshelled fresh or chilled,0,0,1,0,1,0,1,0,0,0
+19,Vegetables&Melons,"Peas, green",70890, (other than peas and beans), shelled or unshelled fresh or chilled,0,0,1,0,1,0,1,0,0,0
+20,Pulses,"Beans, dry",70890, (other than peas and beans), shelled or unshelled fresh or chilled,0,0,1,0,1,0,1,0,0,0
+21,Pulses,"Peas, dry",70890, (other than peas and beans), shelled or unshelled fresh or chilled,0,0,1,0,1,0,1,0,0,0
+22,Vegetables&Melons,Asparagus,70920, asparagus, fresh or chilled,0,0,1,0,0,0,1,0,0,0
+23,Vegetables&Melons,Mushrooms and truffles,70951, mushrooms of the genus Agaricus, fresh or chilled,0,0,1,0,0,0,1,0,0,0
+24,Vegetables&Melons,Mushrooms and truffles,70959, truffles and mushrooms (other than of the genus Agaricus), fresh or chilled,0,0,1,0,0,0,1,0,0,0
+25,Vegetables&Melons,Spinach,70970, spinach, New Zealand spinach and orache spinach (garden spinach) fresh or chilled,0,0,1,0,0,0,1,0,0,0
+26,Vegetables&Melons,Artichokes,70991, globe artichokes, fresh or chilled,0,0,1,0,0,0,1,0,0,0
+27,Oilcrops,Olives,70992, olives, fresh or chilled,0,0,1,0,0,0,1,0,0,0
+28,Vegetables&Melons,"Pumpkins, squash and gourds",70993, pumpkins, squash and gourds (Cucurbita spp.) fresh or chilled,0,0,1,0,0,0,1,0,0,0
+29,Roots&Tubers,Potatoes,71010, potatoes, uncooked or cooked by steaming or boiling in water frozen,0,0,0,1,0,0,0,0,0,0
+30,Vegetables&Melons,"Peas, green",71021, peas (pisum sativum), shelled or unshelled uncooked or cooked by steaming or boiling in water frozen,0,0,0,1,1,0,0,0,0,0
+31,Pulses,"Peas, dry",71021, peas (pisum sativum), shelled or unshelled uncooked or cooked by steaming or boiling in water frozen,0,0,0,1,1,0,0,0,0,0
+32,Pulses,"Beans, dry",71022, beans (vigna spp., phaseolus spp.) shelled or unshelled uncooked or cooked by steaming or boiling in water frozen,0,0,0,1,1,0,0,0,0,0
+33,Vegetables&Melons,"Peas, green",71029, (other than peas or beans), shelled or unshelled uncooked or cooked by steaming or boiling in water frozen,0,0,0,1,1,0,0,0,0,0
+34,Pulses,"Beans, dry",71029, (other than peas or beans), shelled or unshelled uncooked or cooked by steaming or boiling in water frozen,0,0,0,1,1,0,0,0,0,0
+35,Pulses,"Peas, dry",71029, (other than peas or beans), shelled or unshelled uncooked or cooked by steaming or boiling in water frozen,0,0,0,1,1,0,0,0,0,0
+36,Vegetables&Melons,Spinach,71030, spinach, New Zealand spinach and orache spinach (garden spinach) uncooked or cooked by steaming or boiling in water frozen,0,0,0,1,0,0,0,0,0,0
+37,Oilcrops,Olives,71120, olives, provisionally preserved but unsuitable in that state for immediate consumption,0,0,0,0,0,0,0,0,0,1
+38,Vegetables&Melons,Cucumbers and gherkins,71140, cucumbers and gherkins, provisionally preserved but unsuitable in that state for immediate consumption,0,0,0,0,0,0,0,0,0,1
+39,Vegetables&Melons,Mushrooms and truffles,71151, mushrooms of the genus Agaricus, provisionally preserved but unsuitable in that state for immediate consumption,0,0,0,0,0,0,0,0,0,1
+40,Vegetables&Melons,Mushrooms and truffles,71159, mushrooms other than of the genus Agaricus, provisionally preserved but unsuitable in that state for immediate consumption,0,0,0,0,0,0,0,0,0,1
+41,Vegetables&Melons,"Onions, dry",71220, onions, whole cut sliced broken or in powder but not further prepared dried,0,0,0,0,0,1,0,0,0,0
+42,Vegetables&Melons,Mushrooms and truffles,71231, mushrooms of the genus Agaricus, whole cut sliced broken or in powder but not further prepared dried,0,0,0,0,0,1,0,0,0,0
+43,Vegetables&Melons,Mushrooms and truffles,71239, mushrooms, other than the genus Agaricus and truffles whole cut sliced broken or in powder but not further prepared dried,0,0,0,0,0,1,0,0,0,0
+44,Vegetables&Melons,"Peas, green",71310, peas (pisum sativum), shelled whether or not skinned or split dried,0,0,0,0,1,1,0,0,0,0
+45,Pulses,"Peas, dry",71310, peas (pisum sativum), shelled whether or not skinned or split dried,0,0,0,0,1,1,0,0,0,0
+46,Pulses,"Beans, dry",71331, beans of the species vigna mungo (l.) hepper or vigna radiata (l.) wilczek, shelled whether or not skinned or split dried,0,0,0,0,1,1,0,0,0,0
+47,Pulses,"Beans, dry",71332, small red (adzuki) beans (phaseolus or vigna angularis), shelled whether or not skinned or split dried,0,0,0,0,1,1,0,0,0,0
+48,Pulses,"Beans, dry",71333, kidney beans, including white pea beans (phaseolus vulgaris) shelled whether or not skinned or split dried,0,0,0,0,1,1,0,0,0,0
+49,Pulses,"Beans, dry",71334, bambara beans (Vigna subterranea or Voandzeia subterranea), shelled whether or not skinned or split dried,0,0,0,0,1,1,0,0,0,0
+50,Vegetables&Melons,"Peas, green",71335, cow peas (Vigna unguiculata), shelled whether or not skinned or split dried,0,0,0,0,1,1,0,0,0,0
+51,Pulses,"Peas, dry",71335, cow peas (Vigna unguiculata), shelled whether or not skinned or split dried,0,0,0,0,1,1,0,0,0,0
+52,Pulses,Lentils,71340, lentils, shelled whether or not skinned or split dried,0,0,0,0,1,1,0,0,0,0
+53,Pulses,"Beans, dry",71350, broad beans (vicia faba var. major) and horse beans (vicia faba var. equina and vicia faba var. minor), shelled whether or not skinned or split dried,0,0,0,0,1,1,0,0,0,0
+54,Vegetables&Melons,"Peas, green",71360, pigeon peas (Cajanus cajan), shelled whether or not skinned or split dried,0,0,0,0,1,1,0,0,0,0
+55,Pulses,"Peas, dry",71360, pigeon peas (Cajanus cajan), shelled whether or not skinned or split dried,0,0,0,0,1,1,0,0,0,0
+56,Roots&Tubers,Cassava,71410, manioc (cassava), with high starch or inulin content fresh chilled frozen or dried whether or not sliced or in the form of pellets,0,0,1,1,0,1,1,0,0,0
+57,Roots&Tubers,Potatoes,71420, sweet potatoes, with high starch or inulin content fresh chilled frozen or dried whether or not sliced or in the form of pellets,0,0,1,1,0,1,1,0,0,0
+58,Roots&Tubers,Yams,71430, yams (Dioscorea spp.) with high starch or inulin content, fresh chilled frozen or dried whether or not sliced or in the form of pellets,0,0,1,1,0,1,1,0,0,0
+59,Roots&Tubers,Yautia (cocoyam),71450, yautia (Xanthosoma spp.) with high starch or inulin content, fresh chilled frozen or dried whether or not sliced or in the form of pellets,0,0,1,1,0,1,1,0,0,0
+60,Vegetables&Melons,Artichokes,71490, arrowroot, salep Jerusalem artichokes and similar roots and tubers (not manioc sweet potatoes yams taro or yautia) high starch or inulin content fresh chilled frozen dried sliced or not or in pellet form,0,0,1,1,0,1,1,0,0,0
+61,Roots&Tubers,Potatoes,71490, arrowroot, salep Jerusalem artichokes and similar roots and tubers (not manioc sweet potatoes yams taro or yautia) high starch or inulin content fresh chilled frozen dried sliced or not or in pellet form,0,0,1,1,0,1,1,0,0,0
+62,Roots&Tubers,"Roots and Tubers, nes",71490, arrowroot, salep Jerusalem artichokes and similar roots and tubers (not manioc sweet potatoes yams taro or yautia) high starch or inulin content fresh chilled frozen dried sliced or not or in pellet form,0,0,1,1,0,1,1,0,0,0
+63,Roots&Tubers,Yams,71490, arrowroot, salep Jerusalem artichokes and similar roots and tubers (not manioc sweet potatoes yams taro or yautia) high starch or inulin content fresh chilled frozen dried sliced or not or in pellet form,0,0,1,1,0,1,1,0,0,0
+64,Roots&Tubers,Yautia (cocoyam),71490, arrowroot, salep Jerusalem artichokes and similar roots and tubers (not manioc sweet potatoes yams taro or yautia) high starch or inulin content fresh chilled frozen dried sliced or not or in pellet form,0,0,1,1,0,1,1,0,0,0
+65,Oilcrops,Coconuts,80111, coconuts, desiccated,0,0,0,0,0,0,0,0,0,0
+66,Oilcrops,Coconuts,80112, coconuts, in the inner shell (endocarp),0,0,0,0,0,0,0,0,0,0
+67,Oilcrops,Coconuts,80119, coconuts, fresh or dried other than desiccated or in the inner shell (endocarp),0,0,1,0,0,1,0,0,0,0
+68,Treenuts,"Nuts, nes",80121, brazil nuts, fresh or dried in shell,0,0,1,0,0,1,0,0,0,0
+69,Treenuts,"Nuts, nes",80122, brazil nuts, fresh or dried shelled,0,0,1,0,1,1,0,0,0,0
+70,Treenuts,"Nuts, nes",80131, cashew nuts, fresh or dried in shell,0,0,1,0,0,1,0,0,0,0
+71,Treenuts,"Nuts, nes",80132, cashew nuts, fresh or dried shelled,0,0,1,0,1,1,0,0,0,0
+72,Treenuts,"Almonds, with shell",80211, almonds, fresh or dried in shell,0,0,1,0,0,1,0,0,0,0
+73,Treenuts,"Almonds, with shell",80212, almonds, fresh or dried shelled,0,0,1,0,1,1,0,0,0,0
+74,Treenuts,"Walnuts, with shell",80231, walnuts, fresh or dried in shell,0,0,1,0,0,1,0,0,0,0
+75,Treenuts,"Walnuts, with shell",80232, walnuts, fresh or dried shelled,0,0,1,0,1,1,0,0,0,0
+76,Treenuts,Chestnuts,80241, chestnuts (Castanea spp.), fresh or dried in shell,0,0,1,0,0,1,0,0,0,0
+77,Treenuts,Chestnuts,80242, chestnuts (Castanea spp.), fresh or dried shelled,0,0,1,0,1,1,0,0,0,0
+78,Treenuts,Pistachios,80251, pistachios, fresh or dried in shell,0,0,1,0,0,1,0,0,0,0
+79,Treenuts,Pistachios,80252, pistachios, fresh or dried shelled,0,0,1,0,1,1,0,0,0,0
+80,Treenuts,"Nuts, nes",80270, kola nuts (Cola spp.), fresh or dried whether or not shelled or peeled,0,0,1,0,1,1,0,0,0,0
+81,Treenuts,"Nuts, nes",80280, areca nuts, fresh or dried whether or not shelled or peeled,0,0,1,0,1,1,0,0,0,0
+82,Fruit,Plantains,80310, plantains, fresh or dried,0,0,1,0,0,1,0,0,0,0
+83,Fruit,Bananas,80390, bananas, other than plantains fresh or dried,0,0,1,0,0,1,0,0,0,0
+84,Fruit,Plantains,80390, bananas, other than plantains fresh or dried,0,0,1,0,0,1,0,0,0,0
+85,Fruit,Dates,80410, dates, fresh or dried,0,0,1,0,0,1,0,0,0,0
+86,Fruit,Figs,80420, figs, fresh or dried,0,0,1,0,0,1,0,0,0,0
+87,Fruit,Pineapples,80430, pineapples, fresh or dried,0,0,1,0,0,1,0,0,0,0
+88,Fruit,Avocados,80440, avocados, fresh or dried,0,0,1,0,0,1,0,0,0,0
+89,Fruit,"Mangoes, mangosteens, guavas",80450, guavas, mangoes and mangosteens fresh or dried,0,0,1,0,0,1,0,0,0,0
+90,Fruit,Oranges,80510, oranges, fresh or dried,0,0,1,0,0,1,0,0,0,0
+91,Fruit,"Tangerines, mandarins, clem",80521, mandarins (including tangerines and satsumas), fresh or dried,0,0,1,0,0,1,0,0,0,0
+92,Fruit,"Citrus fruit, nes",80529, tangelos, wilkings and similar citrus hybrid fresh or dried,0,0,1,0,0,1,0,0,0,0
+93,Fruit,Grapefruit (inc. pomelos),80540, grapefruit, including pomelos fresh or dried,0,0,1,0,0,1,0,0,0,0
+94,Fruit,"Citrus fruit, nes",80590, citrus fruit n.e.c. in heading no. 0805, fresh or dried,0,0,1,0,0,1,0,0,0,0
+95,Fruit,"Fruit, tropical fresh nes",80590, citrus fruit n.e.c. in heading no. 0805, fresh or dried,0,0,1,0,0,1,0,0,0,0
+96,Fruit,Grapes,80610, grapes, fresh,0,0,1,0,0,0,0,0,0,0
+97,Fruit,Grapes,80620, grapes, dried,0,0,0,0,0,1,0,0,0,0
+98,Vegetables&Melons,Watermelons,80711, watermelons, fresh,0,0,1,0,0,0,0,0,0,0
+99,Vegetables&Melons,Other melons (inc.cantaloupes),80719, melons, other than watermelons fresh,0,0,1,0,0,0,0,0,0,0
+100,Vegetables&Melons,Watermelons,80719, melons, other than watermelons fresh,0,0,1,0,0,0,0,0,0,0
+101,Fruit,Papayas,80720, papaws (papayas), fresh,0,0,1,0,0,0,0,0,0,0
+102,Fruit,Apples,80810, apples, fresh,0,0,1,0,0,0,0,0,0,0
+103,Fruit,Pears,80830, pears, fresh,0,0,1,0,0,0,0,0,0,0
+104,Fruit,Quinces,80840, quinces, fresh,0,0,1,0,0,0,0,0,0,0
+105,Fruit,Apricots,80910, apricots, fresh,0,0,1,0,0,0,0,0,0,0
+106,Fruit,Cherries,80921, sour cherries (Prunus cerasus), fresh,0,0,1,0,0,0,0,0,0,0
+107,Fruit,Cherries,80929, cherries, other than sour cherries (Prunus cerasus) fresh,0,0,1,0,0,0,0,0,0,0
+108,Fruit,Plums and sloes,80940, plums and sloes, fresh,0,0,1,0,0,0,0,0,0,0
+109,Fruit,Strawberries,81010, strawberries, fresh,0,0,1,0,0,0,0,0,0,0
+110,Fruit,Raspberries,81020, raspberries, blackberries mulberries and loganberries fresh,0,0,1,0,0,0,0,0,0,0
+111,Fruit,Currants,81030, black, white or red currants and gooseberries fresh,0,0,1,0,0,0,0,0,0,0
+112,Fruit,Gooseberries,81030, black, white or red currants and gooseberries fresh,0,0,1,0,0,0,0,0,0,0
+113,Fruit,Cranberries,81040, cranberries, bilberries and other fruits of the genus vaccinium fresh,0,0,1,0,0,0,0,0,0,0
+114,Fruit,Persimmons,81070, persimmons, fresh,0,0,1,0,0,0,0,0,0,0
+115,Fruit,Strawberries,81110, strawberries, uncooked or cooked by steaming or boiling in water frozen whether or not containing added sugar or other sweetening matter,0,0,0,1,0,0,0,0,0,0
+116,Fruit,Currants,81120, raspberries, blackberries mulberries loganberries black white or red currants and gooseberries uncooked or cooked whether or not containing added sugar or other sweetening matter,0,0,0,0,0,0,0,0,0,0
+117,Fruit,Gooseberries,81120, raspberries, blackberries mulberries loganberries black white or red currants and gooseberries uncooked or cooked whether or not containing added sugar or other sweetening matter,0,0,0,0,0,0,0,0,0,0
+118,Fruit,Raspberries,81120, raspberries, blackberries mulberries loganberries black white or red currants and gooseberries uncooked or cooked whether or not containing added sugar or other sweetening matter,0,0,0,0,0,0,0,0,0,0
+119,Treenuts,"Nuts, nes",81190, fruit and nuts n.e.c. in heading no. 0811, uncooked or cooked frozen whether or not containing added sugar or other sweetening matter,0,0,0,1,0,0,0,0,0,0
+120,Fruit,"Fruit, tropical fresh nes",81190, fruit and nuts n.e.c. in heading no. 0811, uncooked or cooked frozen whether or not containing added sugar or other sweetening matter,0,0,0,1,0,0,0,0,0,0
+121,Fruit,Cherries,81210, cherries, provisionally preserved but unsuitable in that state for immediate consumption,0,0,0,0,0,0,0,0,0,1
+122,Treenuts,"Nuts, nes",81290, fruit and nuts n.e.c. in heading no. 0812, provisionally preserved but unsuitable in that state for immediate consumption,0,0,0,0,0,0,0,0,0,1
+123,Fruit,"Fruit, tropical fresh nes",81290, fruit and nuts n.e.c. in heading no. 0812, provisionally preserved but unsuitable in that state for immediate consumption,0,0,0,0,0,0,0,0,0,1
+124,Fruit,Apricots,81310, apricots, dried,0,0,0,0,0,1,0,0,0,0
+125,Fruit,Apples,81330, apples, dried,0,0,0,0,0,1,0,0,0,0
+126,Fruit,"Fruit, tropical fresh nes",81340, fruit n.e.c. in heading no. 0812, dried,0,0,0,0,0,1,0,0,0,0
+127,Treenuts,"Nuts, nes",81350, mixtures of nuts or dried fruits of chapter 08,N/A,0,0,0,0,0,0,0,0,0,0
+128,Fruit,"Citrus fruit, nes",81400, of citrus fruit or melons (including watermelons), fresh frozen dried or provisionally preserved in brine in sulphur water and other preservative solutions,0,0,1,1,0,1,0,0,0,1
+129,Fruit,"Fruit, tropical fresh nes",81400, of citrus fruit or melons (including watermelons), fresh frozen dried or provisionally preserved in brine in sulphur water and other preservative solutions,0,0,1,1,0,1,0,0,0,1
+130,Vegetables&Melons,Other melons (inc.cantaloupes),81400, of citrus fruit or melons (including watermelons), fresh frozen dried or provisionally preserved in brine in sulphur water and other preservative solutions,0,0,1,1,0,1,0,0,0,1
+131,Vegetables&Melons,Watermelons,81400, of citrus fruit or melons (including watermelons), fresh frozen dried or provisionally preserved in brine in sulphur water and other preservative solutions,0,0,1,1,0,1,0,0,0,1
+132,OtherCrops,"Coffee, green",90190, husks and skins, coffee substitutes containing coffee in any proportion,0,0,0,0,0,0,0,0,0,0
+133,OtherCrops,Tea,90230, (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3kg,0,0,0,0,0,0,0,0,0,0
+134,OtherCrops,Tea,90240, (fermented) and partly fermented tea, in immediate packings of a content exceeding 3kg,0,0,0,0,0,0,0,0,0,0
+135,OtherCrops,Pepper (Piper spp.),90411, pepper (of the genus piper), neither crushed nor ground,0,0,0,0,0,0,0,0,1,0
+136,OtherCrops,Pepper (Piper spp.),90412, pepper (of the genus piper), crushed or ground,0,0,0,0,0,0,0,0,1,0
+137,OtherCrops,Vanilla,90510, vanilla, neither crushed nor ground,0,0,0,0,0,0,0,0,1,0
+138,OtherCrops,Vanilla,90520, vanilla, crushed or ground,0,0,0,0,0,0,0,0,1,0
+139,OtherCrops,Cinnamon (canella),90611, cinnamon (Cinnamomum zeylanicum Blume), neither crushed nor ground,0,0,0,0,0,0,0,0,1,0
+140,OtherCrops,Cinnamon (canella),90619, cinnamon and cinnamon-tree flowers, other than cinnamon (Cinnamomum zeylanicum Blume) neither crushed nor ground,0,0,0,0,0,0,0,0,1,0
+141,OtherCrops,Cinnamon (canella),90620, cinnamon and cinnamon-tree flowers, crushed or ground,0,0,0,0,0,0,0,0,1,0
+142,OtherCrops,Cloves,90710, cloves (whole fruit, cloves and stems) neither crushed nor ground,0,0,0,0,0,0,0,0,1,0
+143,Fruit,"Fruit, tropical fresh nes",90710, cloves (whole fruit, cloves and stems) neither crushed nor ground,0,0,0,0,0,0,0,0,1,0
+144,OtherCrops,Cloves,90720, cloves (whole fruit, cloves and stems) crushed or ground,0,0,0,0,0,0,0,0,1,0
+145,Fruit,"Fruit, tropical fresh nes",90720, cloves (whole fruit, cloves and stems) crushed or ground,0,0,0,0,0,0,0,0,1,0
+146,OtherCrops,"Nutmeg, mace and cardamoms",90811, nutmeg, neither crushed nor ground,0,0,0,0,0,0,0,0,1,0
+147,OtherCrops,"Nutmeg, mace and cardamoms",90812, nutmeg, crushed or ground,0,0,0,0,0,0,0,0,1,0
+148,OtherCrops,"Anise, badian, fennel, corian",90961, seeds of anise, badian caraway or fennel,0,0,0,0,0,0,0,0,0,0
+149,OtherCrops,"Anise, badian, fennel, corian",90962, seeds of anise, badian caraway or fennel,0,0,0,0,0,0,0,0,0,0
+150,OtherCrops,Ginger,91011, ginger, neither crushed nor ground,0,0,0,0,0,0,0,0,1,0
+151,OtherCrops,Ginger,91012, ginger, crushed or ground,0,0,0,0,0,0,0,0,1,0
+152,Cereals,Wheat,100111, wheat and meslin, durum wheat seed,0,0,0,0,0,0,0,1,0,0
+153,Cereals,Wheat,100119, wheat and meslin, durum wheat other than seed,0,0,0,0,0,0,0,1,0,0
+154,Cereals,Wheat,100191, wheat and meslin, other than durum wheat seed,0,0,0,0,0,0,0,1,0,0
+155,Cereals,Wheat,100199, wheat and meslin, other than durum wheat other than seed,0,0,0,0,0,0,0,1,0,0
+156,Cereals,Rye,100210, rye, seed,0,0,0,0,0,0,0,1,0,0
+157,Cereals,Rye,100290, rye, other than seed,0,0,0,0,0,0,0,1,0,0
+158,Cereals,Barley,100310, barley, seed,0,0,0,0,0,0,0,1,0,0
+159,Cereals,Barley,100390, barley, other than seed,0,0,0,0,0,0,0,1,0,0
+160,Cereals,Oats,100410, oats, seeds,0,0,0,0,0,0,0,0,0,0
+161,Cereals,Oats,100490, oats, other than seed,0,0,0,0,0,0,0,1,0,0
+162,Cereals,Maize,100510, maize (corn), seed,0,0,0,0,0,0,0,1,0,0
+163,Cereals,Maize,100590, maize (corn), other than seed,0,0,0,0,0,0,0,1,0,0
+164,Cereals,"Rice, paddy",100610, rice in the husk (paddy or rough),N/A,0,0,0,0,0,0,0,0,0,0
+165,Cereals,"Rice, paddy",100620, husked (brown) rice,N/A,0,0,0,0,0,0,0,0,0,0
+166,Cereals,"Rice, paddy",100630, rice, semi-milled or wholly milled whether or not polished or glazed,0,0,0,0,0,0,0,0,0,0
+167,Cereals,"Rice, paddy",100640, rice, broken,0,0,0,0,0,0,0,0,0,0
+168,Cereals,Sorghum,100710, grain sorghum, seed,0,0,0,0,0,0,0,1,0,0
+169,Cereals,Sorghum,100790, grain sorghum, other than seed,0,0,0,0,0,0,0,1,0,0
+170,Cereals,Buckwheat,100810, buckwheat,N/A,0,0,0,0,0,0,0,0,0,0
+171,Cereals,Millet,100821, millet, seed,0,0,0,0,0,0,0,1,0,0
+172,Cereals,Millet,100829, millet, other than seed,0,0,0,0,0,0,0,1,0,0
+173,Cereals,Fonio,100840, fonio (Digitaria spp.),N/A,0,0,0,0,0,0,0,0,0,0
+174,Cereals,Quinoa,100850, quinoa (Chenopodium quinoa),N/A,0,0,0,0,0,0,0,0,0,0
+175,Cereals,Triticale,100860, triticale,N/A,0,0,0,0,0,0,0,0,0,0
+176,Cereals,Maize,110220, of maize (corn),N/A,0,0,0,0,0,0,0,0,0,0
+177,Cereals,Maize,110290, other than wheat, meslin and maize (corn),0,0,0,0,0,0,0,0,0,0
+178,Cereals,Wheat,110290, other than wheat, meslin and maize (corn),0,0,0,0,0,0,0,0,0,0
+179,Cereals,Wheat,110311, of wheat,N/A,0,0,0,0,0,0,0,0,0,0
+180,Cereals,Maize,110313, of maize (corn),N/A,0,0,0,0,0,0,0,0,0,0
+181,Cereals,Oats,110412, rolled or flaked, of oats,0,0,0,0,0,0,0,0,0,0
+182,Cereals,Oats,110419, rolled or flaked, other than oats,0,0,0,0,0,0,0,0,0,0
+183,Cereals,Oats,110422, worked (e.g. hulled, pearled sliced or kibbled) of oats,0,0,0,0,0,0,0,0,0,0
+184,Cereals,Maize,110423, worked (e.g. hulled, pearled sliced or kibbled) of maize (corn),0,0,0,0,0,0,0,0,0,0
+185,Cereals,"Cereals, nes",110429, worked, other than rolled or flaked (e.g. Hulled pearled sliced or kibbled) of cereals excluding oats and maize and rice of heading no.1006,0,0,0,0,0,0,0,0,0,0
+186,Cereals,Maize,110429, worked, other than rolled or flaked (e.g. Hulled pearled sliced or kibbled) of cereals excluding oats and maize and rice of heading no.1006,0,0,0,0,0,0,0,0,0,0
+187,Cereals,Oats,110429, worked, other than rolled or flaked (e.g. Hulled pearled sliced or kibbled) of cereals excluding oats and maize and rice of heading no.1006,0,0,0,0,0,0,0,0,0,0
+188,Cereals,"Rice, paddy",110429, worked, other than rolled or flaked (e.g. Hulled pearled sliced or kibbled) of cereals excluding oats and maize and rice of heading no.1006,0,0,0,0,0,0,0,0,0,0
+189,Cereals,"Cereals, nes",110430, germ of cereals, whole rolled flaked or ground,0,0,0,0,0,0,0,0,1,0
+190,Roots&Tubers,Potatoes,110510, of potatoes,N/A,0,0,0,0,0,0,0,0,0,0
+191,Roots&Tubers,Potatoes,110520, of potatoes,N/A,0,0,0,0,0,0,0,0,0,0
+192,Roots&Tubers,"Roots and Tubers, nes",110620, of sago or of roots or tubers of heading no. 0714,N/A,0,0,0,0,0,0,0,0,0,0
+193,Cereals,Wheat,110811, wheat,N/A,0,0,0,0,0,0,0,0,0,0
+194,Cereals,Maize,110812, maize (corn) starch,N/A,0,0,0,0,0,0,0,0,0,0
+195,Roots&Tubers,Cassava,110814, manioc (cassava),N/A,0,0,0,0,0,0,0,0,0,0
+196,Oilcrops,Linseed,120400, linseed, whether or not broken,0,0,0,0,0,0,0,0,0,0
+197,Treenuts,"Nuts, nes",120710, palm nuts and kernels, whether or not broken,0,0,0,0,0,0,0,0,0,0
+198,Pulses,"Beans, dry",120810, of soya beans,N/A,0,0,0,0,0,0,0,0,0,0
+199,Pulses,"Beans, dry",120890, excluding soya beans and mustard seeds,N/A,0,0,0,0,0,0,0,0,0,0
+200,Forage,alfalfa,120921, lucerne (alfalfa) seeds, of a kind used for sowing,0,0,0,0,0,0,0,0,0,0
+201,Forage,clover,120922, clover (Trifolium spp.) seeds, of a kind used for sowing,0,0,0,0,0,0,0,0,0,0
+202,Cereals,Rye,120925, rye grass (Lolium multiflorum Lam., Lolium perenne L.) seeds of a kind used for sowing,0,0,0,0,0,0,0,0,0,0
+203,Forage,clover,120929, other than lucerne, clover fescue Kentucky blue grass and rye grass seeds of a kind used for sowing,0,0,0,0,0,0,0,0,0,0
+204,Cereals,Rye,120929, other than lucerne, clover fescue Kentucky blue grass and rye grass seeds of a kind used for sowing,0,0,0,0,0,0,0,0,0,0
+205,OtherCrops,Hops,130213, of hops,N/A,0,0,0,0,0,0,0,0,0,0
+206,Pulses,"Beans, dry",130232, whether or not modified, derived from locust beans locust bean seeds or guar seeds,0,0,0,0,0,0,0,0,0,0
+207,Oilcrops,Olives,151000, oils and their fractions n.e.c. in chapter 15, obtained solely from olives whether or not refined but not chemically modified including blends of these oils or fractions with oils or fractions of heading no. 1509,0,1,0,0,0,0,0,0,0,0
+208,Oilcrops,Linseed,151511, linseed oil and its fractions, crude not chemically modified,0,1,0,0,0,0,0,0,0,0
+209,Oilcrops,Linseed,151519, linseed oil and its fractions, other than crude whether or not refined but not chemically modified,0,1,0,0,0,0,0,0,0,0
+210,Cereals,Maize,151521, maize (corn) oil and its fractions, crude not chemically modified,0,1,0,0,0,0,0,0,0,0
+211,Cereals,Maize,151529, maize (corn) oil and its fractions, other than crude whether or not refined but not chemically modified,0,1,0,0,0,0,0,0,0,0
+212,Cereals,"Cereals, nes",190410, obtained by the swelling or roasting of cereals or cereal products,N/A,0,0,0,0,0,0,0,0,0,0
+213,Cereals,"Cereals, nes",190420, obtained from unroasted cereal flakes or from mixtures of unroasted cereal flakes and roasted cereal flakes or swelled cereals,N/A,0,0,0,0,0,0,0,0,0,0
+214,Cereals,"Cereals, nes",190430, cereals, not maize (corn) in grain form or in the form of flakes or other worked grains from bulgur wheat,0,0,0,0,0,0,0,0,0,0
+215,Cereals,Maize,190430, cereals, not maize (corn) in grain form or in the form of flakes or other worked grains from bulgur wheat,0,0,0,0,0,0,0,0,0,0
+216,Cereals,Wheat,190430, cereals, not maize (corn) in grain form or in the form of flakes or other worked grains from bulgur wheat,0,0,0,0,0,0,0,0,0,0
+217,Cereals,Maize,190490, cereal or cereal products (excluding maize), in grain form pre-cooked or otherwise prepared,0,0,0,0,0,0,0,0,0,0
+218,Vegetables&Melons,Cucumbers and gherkins,200110, cucumbers and gherkins, prepared or preserved by vinegar or acetic acid,0,0,0,0,0,0,0,0,0,1
+219,Treenuts,"Nuts, nes",200190, vegetables, fruit nuts and other edible parts of plants prepared or preserved by vinegar or acetic acid (excluding cucumbers and gherkins),1,0,0,0,0,0,0,0,0,1
+220,Fruit,"Fruit, tropical fresh nes",200190, vegetables, fruit nuts and other edible parts of plants prepared or preserved by vinegar or acetic acid (excluding cucumbers and gherkins),1,0,0,0,0,0,0,0,0,1
+221,Vegetables&Melons,Cucumbers and gherkins,200190, vegetables, fruit nuts and other edible parts of plants prepared or preserved by vinegar or acetic acid (excluding cucumbers and gherkins),1,0,0,0,0,0,0,0,0,1
+222,Vegetables&Melons,Tomatoes,200210, tomatoes, whole or in pieces prepared or preserved otherwise than by vinegar or acetic acid,0,0,0,0,0,0,0,0,0,1
+223,Vegetables&Melons,Tomatoes,200290, tomatoes, (other than whole or in pieces) prepared or preserved otherwise than by vinegar or acetic acid,0,0,0,0,0,0,0,0,0,1
+224,Vegetables&Melons,Mushrooms and truffles,200310, mushrooms of the genus Agaricus, prepared or preserved otherwise than by vinegar or acetic acid,0,0,0,0,0,0,0,0,0,1
+225,Vegetables&Melons,Mushrooms and truffles,200390, mushrooms and truffles, other than mushrooms of the genus Agaricus prepared or preserved otherwise than by vinegar or acetic acid,0,0,0,0,0,0,0,0,0,1
+226,Roots&Tubers,Potatoes,200410, potatoes, prepared or preserved otherwise than by vinegar or acetic acid frozen,0,0,0,1,0,0,0,0,0,1
+227,Roots&Tubers,Potatoes,200490, vegetables and mixtures of vegetables (excluding potatoes), prepared or preserved otherwise than by vinegar or acetic acid frozen,0,0,0,1,0,0,0,0,0,1
+228,Roots&Tubers,Potatoes,200520, potatoes, prepared or preserved otherwise than by vinegar or acetic acid not frozen,0,0,0,1,0,0,0,0,0,1
+229,Vegetables&Melons,"Peas, green",200540, peas (pisum sativum), prepared or preserved otherwise than by vinegar or acetic acid not frozen,0,0,0,1,0,0,0,0,0,1
+230,Pulses,"Peas, dry",200540, peas (pisum sativum), prepared or preserved otherwise than by vinegar or acetic acid not frozen,0,0,0,1,0,0,0,0,0,1
+231,Pulses,"Beans, dry",200551, beans, shelled prepared or preserved otherwise than by vinegar or acetic acid not frozen,0,0,0,1,1,0,0,0,0,1
+232,Pulses,"Beans, dry",200559, beans, (not shelled) prepared or preserved otherwise than by vinegar or acetic acid not frozen,0,0,0,1,1,0,0,0,0,1
+233,Vegetables&Melons,Asparagus,200560, asparagus, prepared or preserved otherwise than by vinegar or acetic acid not frozen,0,0,0,1,0,0,0,0,0,1
+234,Oilcrops,Olives,200570, olives, prepared or preserved otherwise than by vinegar or acetic acid not frozen,0,0,0,1,0,0,0,0,0,1
+235,Fruit,"Citrus fruit, nes",200791, of citrus fruit, being cooked preparations (excluding homogenised) whether or not containing added sugar or other sweetening matter,0,0,0,0,0,0,0,0,0,0
+236,Fruit,"Fruit, tropical fresh nes",200791, of citrus fruit, being cooked preparations (excluding homogenised) whether or not containing added sugar or other sweetening matter,0,0,0,0,0,0,0,0,0,0
+237,Treenuts,"Nuts, nes",200799, of fruit or nuts n.e.c. in heading no. 2007, cooked preparations (excluding homogenised) whether or not containing added sugar or other sweetening matter,0,0,0,0,0,0,0,0,0,0
+238,Fruit,"Fruit, tropical fresh nes",200799, of fruit or nuts n.e.c. in heading no. 2007, cooked preparations (excluding homogenised) whether or not containing added sugar or other sweetening matter,0,0,0,0,0,0,0,0,0,0
+239,Oilcrops,"Groundnuts, with shell",200811, ground-nuts, whether or not containing added sugar other sweetening matter or spirit,0,0,0,0,0,0,0,0,0,0
+240,Oilcrops,"Groundnuts, with shell",200819, whether or not containing added sugar, other sweetening matter or spirit (excluding ground-nuts except in mixtures),0,0,0,0,0,0,0,0,0,0
+241,Fruit,Pineapples,200820, pineapples, prepared or preserved in ways n.e.c. in heading no. 2007 whether or not containing added sugar other sweetening matter or spirit,0,0,0,0,0,0,0,0,0,1
+242,Fruit,"Citrus fruit, nes",200830, citrus, prepared or preserved in ways n.e.c. in heading no. 2007 whether or not containing added sugar other sweetening matter or spirit,0,0,0,0,0,0,0,0,0,1
+243,Fruit,Pears,200840, pears, prepared or preserved in ways n.e.c. in heading no. 2007 whether or not containing added sugar other sweetening matter or spirit,0,0,0,0,0,0,0,0,0,1
+244,Fruit,Apricots,200850, apricots, prepared or preserved in ways n.e.c. in heading no. 2007 whether or not containing added sugar other sweetening matter or spirit,0,0,0,0,0,0,0,0,0,1
+245,Fruit,Cherries,200860, cherries, prepared or preserved in ways n.e.c. in heading no. 2007 whether or not containing added sugar other sweetening matter or spirit,0,0,0,0,0,0,0,0,0,1
+246,Fruit,Strawberries,200880, strawberries, prepared or preserved in ways n.e.c. in heading no. 2007 whether or not containing added sugar other sweetening matter or spirit,0,0,0,0,0,0,0,0,0,1
+247,Fruit,Cranberries,200893, cranberries (Vaccinium macrocarpon, Vaccinium oxycoccos Vaccinium vitis-idaea) prepared or preserved whether or not containing added sugar other sweetening matter or spirit,0,0,0,0,0,0,0,0,0,1
+248,Fruit,Grapefruit (inc. pomelos),200921, grapefruit (including pomelo), of a Brix value not exceeding 20 unfermented (not containing added spirit) whether or not containing added sugar or other sweetening matter,0,0,0,0,0,0,0,0,0,0
+249,Fruit,Grapefruit (inc. pomelos),200929, grapefruit (including pomelo), of a Brix value exceeding 20 unfermented not containing added spirit whether or not containing added sugar or other sweetening matter,0,0,0,0,0,0,0,0,0,0
+250,Fruit,"Citrus fruit, nes",200931, of single citrus fruit (excluding orange or grapefruit), of a Brix value not exceeding 20 unfermented not containing added spirit whether or not containing added sugar or other sweetening matter,0,0,0,0,0,0,0,0,0,0
+251,Fruit,Grapefruit (inc. pomelos),200931, of single citrus fruit (excluding orange or grapefruit), of a Brix value not exceeding 20 unfermented not containing added spirit whether or not containing added sugar or other sweetening matter,0,0,0,0,0,0,0,0,0,0
+252,Fruit,"Fruit, tropical fresh nes",200931, of single citrus fruit (excluding orange or grapefruit), of a Brix value not exceeding 20 unfermented not containing added spirit whether or not containing added sugar or other sweetening matter,0,0,0,0,0,0,0,0,0,0
+253,Fruit,"Citrus fruit, nes",200939, of single citrus fruit (excluding orange or grapefruit), of a Brix value exceeding 20 unfermented not containing added spirit whether or not containing added sugar or other sweetening matter,0,0,0,0,0,0,0,0,0,0
+254,Fruit,Grapefruit (inc. pomelos),200939, of single citrus fruit (excluding orange or grapefruit), of a Brix value exceeding 20 unfermented not containing added spirit whether or not containing added sugar or other sweetening matter,0,0,0,0,0,0,0,0,0,0
+255,Fruit,"Fruit, tropical fresh nes",200939, of single citrus fruit (excluding orange or grapefruit), of a Brix value exceeding 20 unfermented not containing added spirit whether or not containing added sugar or other sweetening matter,0,0,0,0,0,0,0,0,0,0
+256,Fruit,"Fruit, tropical fresh nes",200989, of any single fruit or vegetable n.e.c. in heading no. 2009, unfermented not containing added spirit whether or not containing added sugar or other sweetening matter,0,0,0,0,0,0,0,0,0,0
+257,Vegetables&Melons,NA,70390, leeks and other kinds n.e.c. in heading no. 0703, fresh or chilled,0,0,1,0,0,0,1,0,0,0
+258,Vegetables&Melons,NA,70420, brussel sprouts, fresh or chilled,0,0,1,0,0,0,1,0,0,0
+259,Vegetables&Melons,NA,70490, edible, n.e.c. in heading no. 0704 fresh or chilled,0,0,1,0,0,0,1,0,0,0
+260,Vegetables&Melons,NA,70521, witloff chicory (cichorium intybus var. foliosum), fresh or chilled,0,0,1,0,0,0,1,0,0,0
+261,Vegetables&Melons,NA,70529, chicory (cichorium spp.), (other than witloof chicory) fresh or chilled,0,0,1,0,0,0,1,0,0,0
+262,Vegetables&Melons,NA,70930, aubergines, (e.g. plants) fresh or chilled,0,0,1,0,0,0,1,0,0,0
+263,Vegetables&Melons,NA,70940, celery (other than celeriac), fresh or chilled,0,0,1,0,0,0,1,0,0,0
+264,Vegetables&Melons,NA,70960, fruits of the genus capsicum or of the genus pimenta, fresh or chilled,0,0,1,0,0,0,1,0,0,0
+265,Vegetables&Melons,NA,70999, edible, n.e.c. in chapter 07 fresh or chilled,0,0,1,0,0,0,1,0,0,0
+266,Vegetables&Melons,NA,71040, sweetcorn, uncooked or cooked by steaming or boiling in water frozen,0,0,0,1,0,0,0,0,0,0
+267,Vegetables&Melons,NA,71080, uncooked or cooked by steaming or boiling in water, n.e.c. in heading no. 0710 frozen,0,0,0,1,0,0,0,0,0,0
+268,Vegetables&Melons,NA,71090, uncooked or cooked by steaming or boiling in water, frozen,0,0,0,1,0,0,0,0,0,0
+269,Vegetables&Melons,NA,71190, n.e.c. in heading no. 0711, provisionally preserved but unsuitable in that state for immediate consumption,0,0,0,0,0,0,0,0,0,1
+270,Vegetables&Melons,NA,71232, wood ears (Auricularia spp), whole cut sliced broken or in powder but not further prepared dried,0,0,0,0,0,1,0,0,0,0
+271,Vegetables&Melons,NA,71233, jelly fungi (Tremella spp)), whole cut sliced broken or in powder but not further prepared dried,0,0,0,0,0,1,0,0,0,0
+272,Vegetables&Melons,NA,71290, mixtures of vegetables n.e.c. in heading no. 0712, whole cut sliced broken or in powder but not further prepared dried,0,0,0,0,0,1,0,0,0,0
+273,Vegetables&Melons,NA,71320, chickpeas (garbanzos), shelled whether or not skinned or split dried,0,0,0,0,1,1,0,0,0,0
+274,Vegetables&Melons,NA,71339, n.e.c. in item no. 0713.3, shelled whether or not skinned or split dried,0,0,0,0,1,1,0,0,0,0
+275,Vegetables&Melons,NA,71390, n.e.c. in heading no. 0713, shelled whether or not skinned or split dried,0,0,0,0,1,1,0,0,0,0
+276,Vegetables&Melons,NA,71440, taro (Colocasia spp.) with high starch or inulin content, fresh chilled frozen or dried whether or not sliced or in the form of pellets,0,0,1,1,0,1,1,0,0,0
+277,Fruit,NA,80522, clementines, fresh or dried,0,0,1,0,0,1,0,0,0,0
+278,Fruit,NA,80550, lemons (Citrus limon, Citrus limonum) limes (Citrus aurantifolia  Citrus latifolia) fresh or dried,0,0,1,0,0,1,0,0,0,0
+279,Fruit,NA,80930, peaches, including nectarines fresh,0,0,1,0,0,0,0,0,0,0
+280,Fruit,NA,81050, kiwifruit, fresh,0,0,1,0,0,0,0,0,0,0
+281,Fruit,NA,81060, durians, fresh,0,0,1,0,0,0,0,0,0,0
+282,Fruit,NA,81090, fruits n.e.c. in heading no. 0801 to 0810, fresh,0,0,1,0,0,0,0,0,0,0
+283,Fruit,NA,81320, prunes, dried,0,0,0,0,0,1,0,0,0,0
+284,Cereals,NA,100830, canary seeds,NA,0,0,0,0,0,0,0,0,0,0
+285,Cereals,NA,100890, n.e.c. in chapter 10,NA,0,0,0,0,0,0,0,0,0,0
+286,Oilcrops,NA,120510, low erucic acid rape or colza seeds, whether or not broken,0,0,0,0,0,0,0,0,0,0
+287,Oilcrops,NA,120590, rape or colza seeds, other than low erucic whether or not broken,0,0,0,0,0,0,0,0,0,0
+288,Oilcrops,NA,120600, sunflower seeds, whether or not broken,0,0,0,0,0,0,0,0,0,0
+289,Oilcrops,NA,120721, cotton seeds, seed whether or not broken,0,0,0,0,0,0,0,1,0,0
+290,Oilcrops,NA,120729, cotton seeds, other than seed whether or not broken,0,0,0,0,0,0,0,1,0,0
+291,Oilcrops,NA,120730, castor oil seeds, whether or not broken,0,0,0,0,0,0,0,0,0,0
+292,Oilcrops,NA,120740, sesamum seeds, whether or not broken,0,0,0,0,0,0,0,0,0,0
+293,Oilcrops,NA,120750, mustard seeds, whether or not broken,0,0,0,0,0,0,0,0,0,0
+294,Oilcrops,NA,120760, safflower (Carthamus tinctorius) seeds, whether or not broken,0,0,0,0,0,0,0,0,0,0
+295,Oilcrops,NA,120770, melon seeds, whether or not broken,0,0,0,0,0,0,0,0,0,0
+296,Oilcrops,NA,120791, poppy seeds, whether or not broken,0,0,0,0,0,0,0,0,0,0
+297,Oilcrops,NA,120799, n.e.c. in heading no. 1207, whether or not broken,0,0,0,0,0,0,0,0,0,0
+298,Vegetables&Melons,NA,121299, fit for human consumption, n.e.c. in heading no. 1212 fresh chilled frozen or dried whether or not ground,0,0,1,1,0,1,1,0,1,0
+299,Forage,NA,121490,N/A,NA,0,0,0,0,0,0,0,0,0,0
+300,Vegetables&Melons,NA,130211, opium,NA,0,0,0,0,0,0,0,0,0,0
+301,Vegetables&Melons,NA,130212, of liquorice,NA,0,0,0,0,0,0,0,0,0,0
+302,Vegetables&Melons,NA,130214, of ephedra,NA,0,0,0,0,0,0,0,0,0,0
+303,Vegetables&Melons,NA,130219, n.e.c. in item no. 1302.1,NA,0,0,0,0,0,0,0,0,0,0
+304,Vegetables&Melons,NA,140190, n.e.c. in heading no. 1401,NA,0,0,0,0,0,0,0,0,0,0
+305,Vegetables&Melons,NA,140420, cotton linters,NA,0,0,0,0,0,0,0,0,0,0
+306,Vegetables&Melons,NA,140490, n.e.c. in chapter 14,NA,0,0,0,0,0,0,0,0,0,0
+307,Oilcrops,NA,150410, fish-liver oils and their fractions, whether or not refined but not chemically modified,0,1,0,0,0,0,0,0,0,0
+308,Oilcrops,NA,150420, of fish, (excluding liver-oils),0,0,0,0,0,0,0,0,0,0
+309,Oilcrops,NA,150430, of marine mammals,NA,0,0,0,0,0,0,0,0,0,0
+310,Oilcrops,NA,150600, whether or not refined, but not chemically modified n.e.c. in chapter 15,0,1,0,0,0,0,0,0,0,0
+311,Oilcrops,NA,150710, soya-bean oil and its fractions, crude whether or not degummed not chemically modified,0,1,0,0,0,0,0,0,0,0
+312,Oilcrops,NA,150790, soya-bean oil and its fractions, other than crude whether or not refined but not chemically modified,0,1,0,0,0,0,0,0,0,0
+313,Oilcrops,NA,150810, ground-nut oil and its fractions, crude not chemically modified,0,1,0,0,0,0,0,0,0,0
+314,Oilcrops,NA,150890, ground-nut oil and its fractions, other than crude whether or not refined but not chemically modified,0,1,0,0,0,0,0,0,0,0
+315,Oilcrops,NA,150910, olive oil and its fractions, virgin whether or not refined but not chemically modified,0,1,0,0,0,0,0,0,0,0
+316,Oilcrops,NA,150990, olive oil and its fractions, other than virgin whether or not refined but not chemically modified,0,1,0,0,0,0,0,0,0,0
+317,Oilcrops,NA,151110, palm oil and its fractions, crude not chemically modified,0,1,0,0,0,0,0,0,0,0
+318,Oilcrops,NA,151190, palm oil and its fractions, other than crude whether or not refined but not chemically modified,0,1,0,0,0,0,0,0,0,0
+319,Oilcrops,NA,151211, sunflower seed or safflower oil and their fractions, crude not chemically modified,0,1,0,0,0,0,0,0,0,0
+320,Oilcrops,NA,151219, sunflower seed or safflower oil and their fractions, other than crude whether or not refined but not chemically modified,0,1,0,0,0,0,0,0,0,0
+321,Oilcrops,NA,151221, cotton-seed oil and its fractions,NA,0,0,0,0,0,0,0,0,0,0
+322,Oilcrops,NA,151229, cotton-seed oil and its fractions, other than crude whether or not refined but not chemically modified,0,1,0,0,0,0,0,0,0,0
+323,Oilcrops,NA,151311, coconut (copra) oil and its fractions, crude not chemically modified,0,1,0,0,0,0,0,0,0,0
+324,Oilcrops,NA,151319, coconut (copra) oil and its fractions, other than crude whether or not refined but not chemically modified,0,1,0,0,0,0,0,0,0,0
+325,Oilcrops,NA,151321, palm kernel or babassu oil and their fractions, crude not chemically modified,0,1,0,0,0,0,0,0,0,0
+326,Oilcrops,NA,151329, palm kernel or babassu oil and their fractions, other than crude whether or not refined but not chemically modified,0,1,0,0,0,0,0,0,0,0
+327,Oilcrops,NA,151411, low erucic acid rape or colza oil and its fractions, crude,0,0,0,0,0,0,0,0,0,0
+328,Oilcrops,NA,151419, low erucic acid rape or colza oil and its fractions, other than crude but not chemically modified,0,1,0,0,0,0,0,0,0,0
+329,Oilcrops,NA,151491, excluding low erucic acid rape or colza oil and its fractions, crude,0,0,0,0,0,0,0,0,0,0
+330,Oilcrops,NA,151499, excluding low erucic acid rape or colza oil and its fractions, other than crude but not chemically modified,0,1,0,0,0,0,0,0,0,0
+331,Oilcrops,NA,151530, castor oil and its fractions, whether or not refined but not chemically modified,0,1,0,0,0,0,0,0,0,0
+332,Oilcrops,NA,151550, sesame oil and its fractions, whether or not refined but not chemically modified,0,1,0,0,0,0,0,0,0,0
+333,Oilcrops,NA,151590, fixed, n.e.c. in heading no. 1515 whether or not refined but not chemically modified,0,1,0,0,0,0,0,0,0,0
+334,Oilcrops,NA,151610, partly or wholly hydrogenated, inter-esterified re-esterified or elaidinised whether or not refined but not further prepared,0,0,0,0,0,0,0,0,0,0
+335,Oilcrops,NA,151620, partly or wholly hydrogenated, inter-esterified re-esterified or elaidinised whether or not refined but not further prepared,0,0,0,0,0,0,0,0,0,0
+336,Oilcrops,NA,151790,N/A,NA,0,0,0,0,0,0,0,0,0,0
+337,Oilcrops,NA,151800, oxidised, boiled or otherwise chemically modified (excluding those of heading no. 1516) inedible mixtures or preparations of fats or oils,0,1,0,0,0,0,0,0,0,0
+338,Vegetables&Melons,NA,152110, whether or not refined or coloured,NA,0,0,0,0,0,0,0,0,0,0
+339,Vegetables&Melons,NA,200510, homogenised vegetables, prepared or preserved otherwise than by vinegar or acetic acid not frozen,0,0,0,1,0,0,0,0,0,1
+340,Vegetables&Melons,NA,200580, sweetcorn (zea mays var. saccharata), prepared or preserved otherwise than by vinegar or acetic acid not frozen,0,0,0,1,0,0,0,0,0,1
+341,Vegetables&Melons,NA,200591, bamboo shoots, prepared or preserved otherwise than by vinegar or acetic acid not frozen,0,0,0,1,0,0,0,0,0,1
+342,Vegetables&Melons,NA,200599, vegetables and mixtures of vegetables n.e.c. in heading no. 2005, prepared or preserved otherwise than by vinegar or acetic acid not frozen,0,0,0,1,0,0,0,0,0,1
+343,Vegetables&Melons,NA,200600,N/A,NA,0,0,0,0,0,0,0,0,0,0
+344,Fruit,NA,200870, peaches, including nectarines prepared or preserved in ways n.e.c. in heading no. 2007 and 2008 whether or not containing added sugar other sweetening matter or spirit,0,0,0,0,0,0,0,0,0,1
+345,Fruit,NA,200891, prepared or preserved, whether or not containing added sugar other sweetening matter or spirit,0,0,0,0,0,0,0,0,0,0
+346,Fruit,NA,200897, mixtures (other than those of subheading no 2008.19),NA,0,0,0,0,0,0,0,0,0,0
+347,Fruit,NA,200899, prepared or preserved, whether or not containing added sugar other sweetening matter or spirit n.e.c. in heading no. 2008,0,0,0,0,0,0,0,0,0,0

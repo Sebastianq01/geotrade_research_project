@@ -1,0 +1,180 @@
+,country_name,country_text_id,v2x_polyarchy
+232,Mexico,MEX,0.628
+354,Suriname,SUR,0.76
+587,Sweden,SWE,0.907
+811,Switzerland,CHE,0.885
+931,Ghana,GHA,0.663
+1053,South Africa,ZAF,0.715
+1286,Japan,JPN,0.835
+1519,Burma/Myanmar,MMR,0.126
+1752,Russia,RUS,0.257
+1862,Albania,ALB,0.478
+2095,Egypt,EGY,0.184
+2261,Yemen,YEM,0.112
+2494,Colombia,COL,0.645
+2661,Poland,POL,0.585
+2894,Brazil,BRA,0.661
+3127,United States of America,USA,0.821
+3360,Portugal,PRT,0.883
+3544,El Salvador,SLV,0.467
+3686,Bangladesh,BGD,0.267
+3883,Bolivia,BOL,0.619
+4116,Haiti,HTI,0.353
+4300,Honduras,HND,0.393
+4422,Mali,MLI,0.254
+4497,Pakistan,PAK,0.363
+4730,Peru,PER,0.759
+4848,Senegal,SEN,0.708
+4859,South Sudan,SSD,0.136
+4981,Sudan,SDN,0.184
+5058,Vietnam,VNM,0.22
+5465,Afghanistan,AFG,0.16
+5698,Argentina,ARG,0.819
+5931,Ethiopia,ETH,0.314
+6164,India,IND,0.444
+6286,Kenya,KEN,0.471
+6363,North Korea,PRK,0.085
+6596,South Korea,KOR,0.861
+6619,Kosovo,XKX,0.601
+6723,Lebanon,LBN,0.455
+6831,Nigeria,NGA,0.491
+6953,Philippines,PHL,0.429
+7061,Tanzania,TZA,0.36
+7183,Taiwan,TWN,0.813
+7416,Thailand,THA,0.198
+7538,Uganda,UGA,0.284
+7761,Venezuela,VEN,0.219
+7883,Benin,BEN,0.421
+8005,Bhutan,BTN,0.573
+8093,Burkina Faso,BFA,0.664
+8215,Cambodia,KHM,0.195
+8437,Indonesia,IDN,0.585
+8559,Mozambique,MOZ,0.356
+8792,Nepal,NPL,0.589
+8976,Nicaragua,NIC,0.233
+9076,Niger,NER,0.522
+9187,Zambia,ZMB,0.379
+9309,Zimbabwe,ZWE,0.281
+9431,Guinea,GIN,0.279
+9553,Ivory Coast,CIV,0.431
+9671,Mauritania,MRT,0.385
+9852,Canada,CAN,0.857
+10085,Australia,AUS,0.854
+10207,Botswana,BWA,0.595
+10313,Burundi,BDI,0.184
+10435,Cape Verde,CPV,0.747
+10537,Central African Republic,CAF,0.333
+10770,Chile,CHL,0.834
+10954,Costa Rica,CRI,0.9
+11076,Timor-Leste,TLS,0.68
+11268,Ecuador,ECU,0.644
+11501,France,FRA,0.874
+11730,Germany,DEU,0.87
+11963,Guatemala,GTM,0.502
+12196,Iran,IRN,0.182
+12298,Iraq,IRQ,0.373
+12401,Ireland,IRL,0.885
+12562,Italy,ITA,0.851
+12662,Jordan,JOR,0.258
+12714,Latvia,LVA,0.826
+12836,Lesotho,LSO,0.623
+13037,Liberia,LBR,0.624
+13159,Malawi,MWI,0.618
+13281,Maldives,MDV,0.596
+13392,Mongolia,MNG,0.628
+13625,Morocco,MAR,0.261
+13856,Netherlands,NLD,0.862
+13975,Panama,PAN,0.75
+14097,Papua New Guinea,PNG,0.425
+14219,Qatar,QAT,0.065
+14341,Sierra Leone,SLE,0.553
+14574,Spain,ESP,0.856
+14676,Syria,SYR,0.139
+14909,Tunisia,TUN,0.556
+15142,Turkey,TUR,0.279
+15174,Ukraine,UKR,0.517
+15407,United Kingdom,GBR,0.863
+15604,Uruguay,URY,0.841
+15726,Algeria,DZA,0.284
+15848,Angola,AGO,0.351
+15880,Armenia,ARM,0.739
+15912,Azerbaijan,AZE,0.194
+15944,Belarus,BLR,0.183
+16005,Cameroon,CMR,0.299
+16107,Chad,TCD,0.209
+16340,China,CHN,0.078
+16462,Democratic Republic of the Congo,COD,0.358
+16581,Republic of the Congo,COG,0.244
+16703,Djibouti,DJI,0.252
+16915,Dominican Republic,DOM,0.683
+17037,Eritrea,ERI,0.069
+17149,Gabon,GAB,0.377
+17271,The Gambia,GMB,0.499
+17303,Georgia,GEO,0.648
+17425,Guinea-Bissau,GNB,0.557
+17547,Jamaica,JAM,0.806
+17579,Kazakhstan,KAZ,0.257
+17611,Kyrgyzstan,KGZ,0.421
+17733,Laos,LAO,0.133
+17881,Libya,LBY,0.272
+18086,Madagascar,MDG,0.481
+18118,Moldova,MDA,0.738
+18240,Namibia,NAM,0.634
+18297,Palestine/West Bank,PSE,0.253
+18403,Rwanda,RWA,0.236
+18525,Somalia,SOM,0.163
+18647,Sri Lanka,LKA,0.573
+18769,Eswatini,SWZ,0.129
+18801,Tajikistan,TJK,0.184
+18907,Togo,TGO,0.368
+19029,Trinidad and Tobago,TTO,0.775
+19061,Turkmenistan,TKM,0.15
+19141,Palestine/Gaza,PSG,0.134
+19232,Somaliland,SML,0.413
+19396,Uzbekistan,UZB,0.216
+19623,Austria,AUT,0.825
+19745,Bahrain,BHR,0.122
+19867,Barbados,BRB,0.797
+20066,Belgium,BEL,0.885
+20096,Bosnia and Herzegovina,BIH,0.526
+20240,Bulgaria,BGR,0.656
+20330,Comoros,COM,0.32
+20365,Croatia,HRV,0.751
+20598,Cuba,CUB,0.181
+20720,Cyprus,CYP,0.816
+20824,Czech Republic,CZE,0.805
+21057,Denmark,DNK,0.908
+21179,Equatorial Guinea,GNQ,0.174
+21233,Estonia,EST,0.891
+21355,Fiji,FJI,0.403
+21568,Finland,FIN,0.868
+21768,Greece,GRC,0.797
+21890,Guyana,GUY,0.537
+22012,Hong Kong,HKG,0.267
+22134,Iceland,ISL,0.832
+22208,Israel,ISR,0.739
+22441,Kuwait,KWT,0.298
+22495,Lithuania,LTU,0.797
+22702,Luxembourg,LUX,0.878
+22733,North Macedonia,MKD,0.586
+22855,Malaysia,MYS,0.413
+22977,Malta,MLT,0.777
+23099,Mauritius,MUS,0.593
+23253,Montenegro,MNE,0.496
+23434,New Zealand,NZL,0.887
+23667,Norway,NOR,0.898
+23900,Oman,OMN,0.176
+24111,Paraguay,PRY,0.57
+24344,Romania,ROU,0.782
+24466,Sao Tome and Principe,STP,0.688
+24696,Saudi Arabia,SAU,0.016
+24913,Serbia,SRB,0.336
+25032,Seychelles,SYC,0.667
+25187,Singapore,SGP,0.404
+25222,Slovakia,SVK,0.846
+25255,Slovenia,SVN,0.703
+25377,Solomon Islands,SLB,0.626
+25499,Vanuatu,VUT,0.777
+25550,United Arab Emirates,ARE,0.1
+25814,Hungary,HUN,0.462
+25980,Zanzibar,ZZB,0.263
